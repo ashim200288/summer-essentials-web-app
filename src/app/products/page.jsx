@@ -12,7 +12,7 @@ const ProductWithNavbar = () => {
   const [activeCategory, setActiveCategory] = useState("All");
 
   useEffect(() => {
-    fetch("https://summer-essentials-store-delta.vercel.app/data.json")
+    fetch("/data.json")
       .then((res) => res.json())
       .then((data) => {
         setProducts(data);
