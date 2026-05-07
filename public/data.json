@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV protection sunglasses perfect for summer outings.",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400",
+    "category": "Eyewear"
+  },
+  {
+    "id": 2,
+    "name": "Straw Beach Hat",
+    "brand": "SunShade",
+    "price": 18,
+    "rating": 4.5,
+    "stock": 15,
+    "description": "Wide brim straw hat to keep you cool and stylish at the beach.",
+    "image": "https://images.unsplash.com/photo-1582791694770-cbdc9dda338f?w=400",
+    "category": "Headwear"
+  },
+  {
+    "id": 3,
+    "name": "Floral Bikini Set",
+    "brand": "WaveRider",
+    "price": 32,
+    "rating": 4.6,
+    "stock": 12,
+    "description": "Vibrant floral print bikini set for beach and pool days.",
+    "image": "https://images.unsplash.com/photo-1520013817300-1f4c1cb245ef?w=400",
+    "category": "Swimwear"
+  },
+  {
+    "id": 4,
+    "name": "Waterproof Sunscreen SPF50",
+    "brand": "GlowGuard",
+    "price": 14,
+    "rating": 4.8,
+    "stock": 30,
+    "description": "Lightweight waterproof sunscreen for all-day outdoor protection.",
+    "image": "https://images.unsplash.com/photo-1556228578-dd62a5e9abc0?w=400",
+    "category": "Skincare"
+  },
+  {
+    "id": 5,
+    "name": "Linen Shorts",
+    "brand": "BreezeCo",
+    "price": 22,
+    "rating": 4.4,
+    "stock": 18,
+    "description": "Breathable linen shorts ideal for hot summer days.",
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f43?w=400",
+    "category": "Clothing"
+  },
+  {
+    "id": 6,
+    "name": "Slip-On Beach Sandals",
+    "brand": "SandStep",
+    "price": 20,
+    "rating": 4.5,
+    "stock": 14,
+    "description": "Comfortable and durable slip-on sandals for sandy shores.",
+    "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=400",
+    "category": "Footwear"
+  },
+  {
+    "id": 7,
+    "name": "Insulated Water Bottle 1L",
+    "brand": "HydroGo",
+    "price": 25,
+    "rating": 4.9,
+    "stock": 20,
+    "description": "Keeps drinks cold for 24 hours — perfect for summer hydration.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400",
+    "category": "Drinkware"
+  },
+  {
+    "id": 8,
+    "name": "Mesh Beach Tote Bag",
+    "brand": "ShoreCarry",
+    "price": 16,
+    "rating": 4.3,
+    "stock": 11,
+    "description": "Spacious mesh tote bag that lets sand fall right through.",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400",
+    "category": "Bags"
+  },
+  {
+    "id": 9,
+    "name": "Cooling Face Mist",
+    "brand": "GlowGuard",
+    "price": 12,
+    "rating": 4.6,
+    "stock": 25,
+    "description": "Refreshing facial mist to cool down instantly under the sun.",
+    "image": "https://images.unsplash.com/photo-1611080541599-8c6dbde6ed28?w=400",
+    "category": "Skincare"
+  },
+  {
+    "id": 10,
+    "name": "Oversized Linen Shirt",
+    "brand": "BreezeCo",
+    "price": 28,
+    "rating": 4.5,
+    "stock": 9,
+    "description": "Loose-fit linen shirt, great as a beach cover-up or casual top.",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400",
+    "category": "Clothing"
+  },
+  {
+    "id": 11,
+    "name": "Portable Beach Umbrella",
+    "brand": "ShadeUp",
+    "price": 38,
+    "rating": 4.7,
+    "stock": 7,
+    "description": "Lightweight UV-blocking beach umbrella with sand anchor.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400",
+    "category": "Beach Gear"
+  },
+  {
+    "id": 12,
+    "name": "Waterproof Phone Pouch",
+    "brand": "AquaSafe",
+    "price": 10,
+    "rating": 4.4,
+    "stock": 22,
+    "description": "Universal waterproof pouch to protect your phone at the beach.",
+    "image": "https://images.unsplash.com/photo-1512054502232-10a0a035d672?w=400",
+    "category": "Accessories"
+  },
+  {
+    "id": 13,
+    "name": "Aloe Vera After-Sun Gel",
+    "brand": "GlowGuard",
+    "price": 11,
+    "rating": 4.8,
+    "stock": 28,
+    "description": "Soothing aloe vera gel to calm and hydrate sun-exposed skin.",
+    "image": "https://images.unsplash.com/photo-1629198688000-71f23e745b6e?w=400",
+    "category": "Skincare"
+  },
+  {
+    "id": 14,
+    "name": "Inflatable Pool Float",
+    "brand": "FloatZone",
+    "price": 19,
+    "rating": 4.5,
+    "stock": 10,
+    "description": "Fun and sturdy inflatable float for pool and beach relaxation.",
+    "image": "https://images.unsplash.com/photo-1530053969600-caed2596d242?w=400",
+    "category": "Beach Gear"
+  },
+  {
+    "id": 15,
+    "name": "Polarized Clip-On Sunglasses",
+    "brand": "SunShade",
+    "price": 13,
+    "rating": 4.3,
+    "stock": 16,
+    "description": "Polarized clip-on lenses that fit over prescription glasses.",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=400",
+    "category": "Eyewear"
+  },
+  {
+    "id": 16,
+    "name": "Fruit-Print Mini Dress",
+    "brand": "WaveRider",
+    "price": 34,
+    "rating": 4.6,
+    "stock": 8,
+    "description": "Breezy fruit-print mini dress for effortless summer style.",
+    "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400",
+    "category": "Clothing"
+  },
+  {
+    "id": 17,
+    "name": "Foldable Beach Chair",
+    "brand": "ShadeUp",
+    "price": 42,
+    "rating": 4.7,
+    "stock": 6,
+    "description": "Lightweight foldable chair with cup holder for beach comfort.",
+    "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=400",
+    "category": "Beach Gear"
+  },
+  {
+    "id": 18,
+    "name": "Tropical Scented Candle",
+    "brand": "AuraMood",
+    "price": 17,
+    "rating": 4.5,
+    "stock": 13,
+    "description": "Coconut and mango scented candle to bring summer vibes indoors.",
+    "image": "https://images.unsplash.com/photo-1603905617678-5e9e8e88fc30?w=400",
+    "category": "Home & Lifestyle"
+  },
+  {
+    "id": 19,
+    "name": "Quick-Dry Microfiber Towel",
+    "brand": "ShoreCarry",
+    "price": 21,
+    "rating": 4.8,
+    "stock": 17,
+    "description": "Ultra-absorbent microfiber towel that dries in minutes.",
+    "image": "https://images.unsplash.com/photo-1562735632-8f3f8ed6eccd?w=400",
+    "category": "Beach Gear"
+  },
+  {
+    "id": 20,
+    "name": "Bluetooth Waterproof Speaker",
+    "brand": "SoundPeak",
+    "price": 45,
+    "rating": 4.7,
+    "stock": 5,
+    "description": "IPX7 waterproof speaker for music by the pool or beach.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400",
+    "category": "Electronics"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "Accessories": [
+    { "id": 1, "name": "UV Protection Sunglasses" },
+    { "id": 2, "name": "Beach Hat" },
+    { "id": 5, "name": "Cooling Water Bottle" },
+    { "id": 9, "name": "Straw Bag" },
+    { "id": 12, "name": "Sunglasses Case" },
+    { "id": 13, "name": "Sports Cap" },
+    { "id": 19, "name": "Waterproof Phone Case" }
+  ],
+  "Clothing": [
+    { "id": 3, "name": "Summer T-Shirt" },
+    { "id": 6, "name": "Swim Shorts" },
+    { "id": 10, "name": "Casual Shorts" },
+    { "id": 15, "name": "Linen Shirt" }
+  ],
+  "Footwear": [
+    { "id": 4, "name": "Flip Flops" },
+    { "id": 14, "name": "Sandals" }
+  ],
+  "Beauty": [
+    { "id": 7, "name": "Sunscreen SPF 50" },
+    { "id": 17, "name": "Cooling Gel" }
+  ],
+  "Home": [
+    { "id": 8, "name": "Beach Towel" }
+  ],
+  "Electronics": [
+    { "id": 11, "name": "Portable Fan" }
+  ],
+  "Outdoor": [
+    { "id": 16, "name": "Beach Umbrella" }
+  ],
+  "Bags": [
+    { "id": 18, "name": "Travel Backpack" }
+  ],
+  "Appliances": [
+    { "id": 20, "name": "Ice Cream Maker" }
+  ]
+}
